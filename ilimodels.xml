@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><TRANSFER xmlns="http://www.interlis.ch/INTERLIS2.3">
+<HEADERSECTION SENDER="ilimanager-0.9.2-SNAPSHOT-f6b232e32f66abe88695b86cf36cc5b5acceab48" VERSION="2.3"><MODELS><MODEL NAME="IliRepository20" VERSION="2020-04-17" URI="http://models.interlis.ch/core"></MODEL></MODELS></HEADERSECTION>
+<DATASECTION>
+<IliRepository20.RepositoryIndex BID="b1">
+<IliRepository20.RepositoryIndex.ModelMetadata TID="0"><Name>ObjectPool_V1_0</Name><SchemaLanguage>ili2_4</SchemaLanguage><File>contrib/ObjectPool_V1_0.ili</File><Version>2025-06-25</Version><NameLanguage>en</NameLanguage><publishingDate>2026-05-23</publishingDate><Issuer>http://www.interlis.ch/models</Issuer><browseOnly>false</browseOnly><md5>d6b69f94749fbb54278d11108c717b13</md5></IliRepository20.RepositoryIndex.ModelMetadata>
+<IliRepository20.RepositoryIndex.ModelMetadata TID="1"><Name>Elements_V1_0</Name><SchemaLanguage>ili2_4</SchemaLanguage><File>contrib/Elements_V1_0.ili</File><Version>20251015</Version><publishingDate>2026-05-23</publishingDate><Issuer>mailto:ce@eisenhutinformatik.ch</Issuer><browseOnly>false</browseOnly><md5>2289832a1c4ed83c5e14be8a6185c31a</md5></IliRepository20.RepositoryIndex.ModelMetadata>
+<IliRepository20.RepositoryIndex.ModelMetadata TID="2"><Name>IliVRefData_V1_0</Name><SchemaLanguage>ili2_4</SchemaLanguage><File>contrib/IliVRefData_V1_0.ili</File><Version>2025-10-01</Version><publishingDate>2026-05-23</publishingDate><Issuer>mailto:ceis@localhost</Issuer><browseOnly>false</browseOnly><md5>2362ca7b7ffa5fd0c3956b8721b2e2e9</md5></IliRepository20.RepositoryIndex.ModelMetadata>
+<IliRepository20.RepositoryIndex.ModelMetadata TID="3"><Name>IliVRuntime_V1_0</Name><SchemaLanguage>ili2_4</SchemaLanguage><File>contrib/IliVRuntime_V1_0.ili</File><Version>2025-10-01</Version><publishingDate>2026-05-23</publishingDate><Issuer>mailto:ceis@localhost</Issuer><browseOnly>false</browseOnly><md5>cf65b7a496210f3ed17274e2e0177486</md5></IliRepository20.RepositoryIndex.ModelMetadata>
+</IliRepository20.RepositoryIndex>
+</DATASECTION>
+</TRANSFER>
