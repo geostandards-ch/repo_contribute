@@ -11,9 +11,9 @@ MODEL IliVRefData_V1_0
   	BASKET OID AS INTERLIS.UUIDOID;
   
   	/** topic und/oder sope muessen gegeben sein.
-  	* Falls topic fehlt, gilt die Konfig für alle Behaelter mit dem gegebene scope.
-  	* Falls scope fehlt, gilt die Konfig für alle Behaelter mit dem gegeben topic.
-  	* Als refdata kann man auch die vom ilivalidator unterstützen http oder https URLs benutzen.
+  	* Falls topic fehlt, gilt die Konfig fÃ¼r alle Behaelter mit dem gegebene scope.
+  	* Falls scope fehlt, gilt die Konfig fÃ¼r alle Behaelter mit dem gegeben topic.
+  	* Als refdata kann man auch die vom ilivalidator unterstÃ¼tzen http oder https URLs benutzen.
   	*/
 	CLASS RefData =
 		 ignore: BOOLEAN; !! true falls der Eintrag aktuell ignoriert werden soll
